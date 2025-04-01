@@ -1,2 +1,2 @@
-# SQL_cleaning_samples
+# SQL_projects
 A collection of my sample SQL files
